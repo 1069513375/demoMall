@@ -1,4 +1,4 @@
-# supermall
+# A vue.js demo
 
 ## Project setup
 ```
